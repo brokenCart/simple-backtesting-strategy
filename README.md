@@ -16,8 +16,8 @@ A Python implementation of a simple moving-average trading strategy that backtes
 
 ## Installation
 ```bash
-git clone https://github.com/brokenCart/simple-backtesting-strategy.git
-cd simple-backtesting-strategy
+git clone https://github.com/brokenCart/simple_backtesting_strategy.git
+cd simple_backtesting_strategy
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
